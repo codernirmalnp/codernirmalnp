@@ -8,4 +8,4 @@
 codernirmalnp/codernirmalnp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hii i Am codernirmal i am full stack web developer. I mainly focus in single page applicaion
+Hii i Am codernirmal i am full stack web developer. I mainly focus in single page applicaion.I am currently learning advance web development..
