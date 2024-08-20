@@ -9,6 +9,7 @@
       🎯 Trying different things in tech and building something out of it is my interest.<br><br>
       ✨ I love to learn about DSA, ML, Web Development, BlockChain, Data Analysis and 3D things each day.<br><br>
 <td >
+![GitHub Activity Graph](https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
 
 
     
