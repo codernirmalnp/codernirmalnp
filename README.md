@@ -9,7 +9,7 @@
       🎯 Trying different things in tech and building something out of it is my interest.<br>
       ✨ I love to learn about DSA, ML, Web Development, BlockChain, Data Analysis and 3D things each day.<br>
 <td >
-</td>
+
 
     
   </tr>
